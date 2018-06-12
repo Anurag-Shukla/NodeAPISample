@@ -1,0 +1,29 @@
+{
+			svg_id:"BarChartschoolNamevalue",
+			svgwidth:960,
+			svgheight:500,
+			margin:{
+                  top:20,
+                  bottom:30,
+                  left:40,
+                  right:20
+				},
+			axisX:{
+				 parameter:'schoolName',
+                 label:'Name of School',
+                 axiscolor:'black',
+                 fontsize:10,
+                 labelcolor:''
+				},
+			axisY:{
+				  parameter:'value',
+            	  label:'',
+	              axiscolor:'',
+	              fontsize:10,
+	              labelcolor:'black'
+				},
+			bar:{
+                  color:'black'
+				}
+
+	}
